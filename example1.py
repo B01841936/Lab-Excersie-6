@@ -1,0 +1,11 @@
+name = input("Enter Name >> ")
+banid = input("Enter Banner ID >> ")
+ip_address = input("Enter IP >> ")
+eventsno = input("Enter Number of Events >> ")
+
+print("\nSecurity Event")
+print("----------------------")
+print("Name:", name)
+print("ID:", banid)
+print("IP Address", ip_address)
+print("No. Events", eventsno)
